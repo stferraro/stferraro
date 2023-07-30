@@ -1,15 +1,9 @@
 ### Hola,Soy Gerardo Alí Ferraro Schelijasch
 
-**gerferr83/gerferr83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy programador y desarrollador web freelancer. Apasionado por la informática y la tecnológia , con amplios conocimientos en algunos lenguajes tecnológicos
+y de programación como HTML, CSS, Java, Python, PHP entre otros. Me dedico en el desarrollo de soluciones informáticas para PYMES, al servicio técnico de PC,
+instalación de sistemas operativos Windows y GNU/Linux configuración de servidores en ambiente GNU/Linux y diseño de redes para pequeñas empresas. Desde hace
+poco tiempo me desempeño como docente en algunas universidades y institutos profesionales de la ciudad de Acarigua (Venezuela)
 
-Here are some ideas to get you started:
 
-- 🔭 Soy Programador y desarrollador web
-- 🌱 Profesor Universitario
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
