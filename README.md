@@ -7,3 +7,9 @@ My experience also includes technical support, with extensive knowledge in insta
 Currently, I work remotely as an Odoo and Python developer at Jenrax SRL in the Dominican Republic and as a university instructor teaching various subjects at IUTEPI (University Institute of Technology for Informatics).
 
 <img src="recursos/screwdriver-wrench-solid.svg" alt="tools" width="40" height="40>
+## Skills and Technologies
+
+- **Programming Languages**: Python, Java, JavaScript, C, C++
+- **Frameworks and Tools**: Odoo, Django, FastAPI
+- **Other**: SQL, PostgreSQL, MySQL, Git, GitHub
+
