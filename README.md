@@ -6,7 +6,7 @@ T.S.U. (University Higher Technician) graduated from IUTEPI (University Institut
 My experience also includes technical support, with extensive knowledge in installing Windows operating systems and GNU/Linux distributions, setting up servers in GNU/Linux environments, and basic structured cabling and computer network setup for small businesses.
 Currently, I work remotely as an Odoo and Python developer at Jenrax SRL in the Dominican Republic and as a university instructor teaching various subjects at IUTEPI (University Institute of Technology for Informatics).
 
-<img src="recursos/edit-tools.png" alt="tools" width="40" height="40>
+<img src="recursos/edit-tools.png" alt="tools" width="40" height="40">
 ## Skills and Technologies
 
 - **Programming Languages**: Python, Java, JavaScript, C, C++
