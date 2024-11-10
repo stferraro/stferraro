@@ -1,4 +1,4 @@
-<img src="recursos/logo2.webp" alt="Logo" width="150" height="150"> 
+<img src="recursos/logo2.webp" alt="Logo" width="80" height="80"> 
 
 Hello I'm Gerardo Alí Ferraro Schelijasch .
 
@@ -6,4 +6,4 @@ T.S.U. (University Higher Technician) graduated from IUTEPI (University Institut
 My experience also includes technical support, with extensive knowledge in installing Windows operating systems and GNU/Linux distributions, setting up servers in GNU/Linux environments, and basic structured cabling and computer network setup for small businesses.
 Currently, I work remotely as an Odoo and Python developer at Jenrax SRL in the Dominican Republic and as a university instructor teaching various subjects at IUTEPI (University Institute of Technology for Informatics).
 
-<img src="recursos/screwdriver-wrench-solid.svg" alt="tools" width="150" height="150">
+<img src="recursos/screwdriver-wrench-solid.svg" alt="tools" width="40" height="40>
