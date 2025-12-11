@@ -20,7 +20,7 @@ Currently, I work remotely as an Odoo and Python developer at Jenrax SRL in the 
 - **Odoo and Python Developer**  
   *Jenrax SRL, Dominican Republic [](https://www.jenrax.com)*  
   *Remote (Current Position)*  
-  Responsibilities include developing and maintaining Odoo modules and Python-based solutions, integrating business processes, and ensuring software optimization.
+  Responsibilities include developing and maintaining Odoo modules for Odoo versions 13, 16, 18, 19 and Python-based solutions, integrating business processes, and ensuring software optimization.
 
 - **University Instructor**  
   *IUTEPI (University Institute of Technology for Informatics) [](www.iutepi.edu)*  
