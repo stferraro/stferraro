@@ -10,7 +10,7 @@ Currently, I work remotely as an Odoo and Python developer at Jenrax SRL in the 
 ## Skills and Technologies
 
 - **Programming Languages**: Python, Java, JavaScript, C, C++
-- **Frameworks and Tools**: Odoo, Django, FastAPI
+- **Frameworks and Tools**: Odoo, FastAPI
 - **Other**: SQL, PostgreSQL, MySQL, Git, GitHub
 
 
@@ -18,14 +18,19 @@ Currently, I work remotely as an Odoo and Python developer at Jenrax SRL in the 
 ## Professional Experience
 
 - **Odoo and Python Developer**  
-  *Jenrax SRL, Dominican Republic*  
+  *Jenrax SRL, Dominican Republic [](https://www.jenrax.com)*  
   *Remote (Current Position)*  
   Responsibilities include developing and maintaining Odoo modules and Python-based solutions, integrating business processes, and ensuring software optimization.
 
-- **Junior Developer**  
-  *CorpoEureka*  
-  *Remote (Past Year)*  
-  Contributed to the development of Odoo applications and Python scripts, working on automation, and improving client systems.
+- **University Instructor**  
+  *IUTEPI (University Institute of Technology for Informatics) [](www.iutepi.edu)*  
+  *Current Position*  
+  Teaching various subjects related to programming and systems analysis, guiding students through both theoretical and practical aspects of IT.
+  
+- **Junior Odoo Developer**
+ *CorpoEureka -- [](https://www.corpoeureka.com/)*
+ *On-site and freelance work
+ Worked on-site and as a freelance developer, creating customized modules for Odoo versions 14, 16, 17, and 18, tailored to the specific business needs of different companies.
 
 - **Web Developer**  
   *Freelance*  
@@ -35,10 +40,6 @@ Currently, I work remotely as an Odoo and Python developer at Jenrax SRL in the 
   *Freelance*  
   Provided technical support services, including Windows OS and GNU/Linux distribution installation, server setup, and basic computer network setup for small businesses.
 
-- **University Instructor**  
-  *IUTEPI (University Institute of Technology for Informatics)*  
-  *Current Position*  
-  Teaching various subjects related to programming and systems analysis, guiding students through both theoretical and practical aspects of IT.
 
 <img src="recursos/birrete.png" alt="tools" width="40" height="40">
 ## Education
