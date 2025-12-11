@@ -101,7 +101,8 @@ Currently, I work remotely as an Odoo and Python developer at Jenrax SRL in the 
   ## Contact Information
 
 - **Phone**: +584120794577  
-- **Email**: gerferr83@gmail.com  
+- **Email**: gerferr83@gmail.com
+- **Email**: gerferr83@soltecferr.com
 - **LinkedIn**: linkedin.com/in/gerardo-alí-ferraro-schelijasch-0694568b  
 - **GitHub**: www.github.com/stferraro  
 - **Personal Website**: https://www.soltecferr.com
