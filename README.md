@@ -6,12 +6,28 @@ T.S.U. (University Higher Technician) graduated from IUTEPI (University Institut
 My experience also includes technical support, with extensive knowledge in installing Windows operating systems and GNU/Linux distributions, setting up servers in GNU/Linux environments, and basic structured cabling and computer network setup for small businesses.
 Currently, I work remotely as an Odoo and Python developer at Jenrax SRL in the Dominican Republic, from october 2024 and as a university instructor teaching various subjects at IUTEPI (University Institute of Technology for Informatics) from march 2023.
 
-<img src="recursos/work-tools.png" alt="tools" width="40" height="40">
+<img src="recursos/work-tools.png" alt="tools" width="45" height="45">
+
 ## Skills and Technologies
 
-- **Programming Languages**: Python, Java, JavaScript, C, C++
-- **Frameworks and Tools**: Odoo, FastAPI
-- **Other**: SQL, PostgreSQL, MySQL, Git, GitHub
+### 🚀 Programming Languages
+| Python | Java | JavaScript | C | C++ |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="recursos/python.png" width="40"> | <img src="recursos/java.png" width="40"> | <img src="recursos/javascript.png" width="40"> | <img src="recursos/c.png" width="40"> | <img src="recursos/cpp.png" width="40"> |
+
+---
+
+### 🛠️ Frameworks & Tools
+| Odoo | FastAPI | Git | GitHub |
+| :---: | :---: | :---: | :---: |
+| <img src="recursos/odoo.png" width="40"> | <img src="recursos/fastapi.png" width="40"> | <img src="recursos/git.png" width="40"> | <img src="recursos/github.png" width="40"> |
+
+---
+
+### 🗄️ Databases
+| SQL | PostgreSQL | MySQL |
+| :---: | :---: | :---: |
+| <img src="recursos/sql.png" width="40"> | <img src="recursos/postgresql.png" width="40"> | <img src="recursos/mysql.png" width="40"> |
 
 
 <img src="recursos/work-from-home.png" alt="tools" width="40" height="40">
