@@ -13,7 +13,7 @@ Currently, I work remotely as an Odoo and Python developer at Jenrax SRL in the 
 ### 🚀 Programming Languages
 | Python | Java | JavaScript | C | C++ |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="recursos/python.webp" width="40"> | <img src="recursos/java.png" width="40"> | <img src="recursos/js.webp" width="40"> | <img src="recursos/C_Logo.png" width="40"> | <img src="recursos/c++.png" width="40"> |
+| <img src="recursos/python.webp" width="40"> | <img src="recursos/java.webp" width="40"> | <img src="recursos/js.webp" width="40"> | <img src="recursos/C_Logo.png" width="40"> | <img src="recursos/C++.png" width="40"> |
 
 ---
 
@@ -27,7 +27,7 @@ Currently, I work remotely as an Odoo and Python developer at Jenrax SRL in the 
 ### 🗄️ Databases
 | SQL | PostgreSQL | MySQL |
 | :---: | :---: | :---: |
-| <img src="recursos/sql.png" width="40"> | <img src="recursos/postgres.jpeg" width="40"> | <img src="recursos/mysql.png" width="40"> |
+| <img src="recursos/sql.png" width="35"> | <img src="recursos/postgres.jpeg" width="40"> | <img src="recursos/mysql.png" width="40"> |
 
 
 <img src="recursos/work-from-home.png" alt="tools" width="40" height="40">
