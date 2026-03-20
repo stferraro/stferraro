@@ -27,7 +27,7 @@ Currently, I work remotely as an Odoo and Python developer at Jenrax SRL in the 
 ### 🗄️ Databases
 | SQL | PostgreSQL | MySQL |
 | :---: | :---: | :---: |
-| <img src="recursos/sql.png" width="40"> | <img src="recursos/postgresql.jpeg" width="40"> | <img src="recursos/mysql.png" width="40"> |
+| <img src="recursos/sql.png" width="40"> | <img src="recursos/postgres.jpeg" width="40"> | <img src="recursos/mysql.png" width="40"> |
 
 
 <img src="recursos/work-from-home.png" alt="tools" width="40" height="40">
