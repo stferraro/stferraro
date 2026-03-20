@@ -13,14 +13,14 @@ Currently, I work remotely as an Odoo and Python developer at Jenrax SRL in the 
 ### 🚀 Programming Languages
 | Python | Java | JavaScript | C | C++ |
 | :---: | :---: | :---: | :---: | :---: |
-| <img src="recursos/python.webp" width="40"> | <img src="recursos/java.png" width="40"> | <img src="recursos/js.webp" width="40"> | <img src="recursos/C_Logo.png" width="40"> | <img src="recursos/cpp.png" width="40"> |
+| <img src="recursos/python.webp" width="40"> | <img src="recursos/java.png" width="40"> | <img src="recursos/js.webp" width="40"> | <img src="recursos/C_Logo.png" width="40"> | <img src="recursos/c++.png" width="40"> |
 
 ---
 
 ### 🛠️ Frameworks & Tools
 | Odoo | FastAPI | Git | GitHub |
 | :---: | :---: | :---: | :---: |
-| <img src="recursos/odoo.svg" width="40"> | <img src="recursos/fastapi.png" width="40"> | <img src="recursos/git.png" width="40"> | <img src="recursos/github.png" width="40"> |
+| <img src="recursos/odoo.svg" width="40"> | <img src="recursos/fastapi.svg" width="40"> | <img src="recursos/git.webp" width="40"> | <img src="recursos/github.jpg" width="40"> |
 
 ---
 
