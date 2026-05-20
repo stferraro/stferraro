@@ -2,7 +2,7 @@
 
 Hello I'm Gerardo Alí Ferraro Schelijasch .
 
-T.S.U. (University Higher Technician) graduated from IUTEPI (University Institute of Technology for Informatics) in 2014. Currently, I am studying Information Engineering at UNITEC (Universidad Tecnológica del Centro, Venezuela). Passionate about computing and technology, I currently work remotely as an Odoo and Python Developer at Jenrax SRL https:jenrax.com since October 2024. I also work as a freelance web developer with knowledge of technologies such as HTML5 and CSS3, as well as tools like WordPress. Additionally, I have experience with programming languages including Java, C, C++, and Python. Over the past year, I have collaborated as a junior Odoo and Python developer at CorpoEureka.
+T.S.U. (University Higher Technician) graduated from IUTEPI (University Institute of Technology for Informatics) in 2014. Currently, I am studying Information Engineering at UNITEC (Universidad Tecnológica del Centro, Venezuela). Passionate about computing and technology, I currently work remotely as an Odoo and Python Developer at <a href="https://jenrax.com/" target="blank_">Jenrax SRL</a>. </p>since October 2024. I also work as a freelance web developer with knowledge of technologies such as HTML5 and CSS3, as well as tools like WordPress. Additionally, I have experience with programming languages including Java, C, C++, and Python. Over the past year, I have collaborated as a junior Odoo and Python developer at CorpoEureka.
 
 My experience also includes technical support, with extensive knowledge in installing Windows operating systems and GNU/Linux distributions, configuring servers in GNU/Linux environments, and performing basic structured cabling and computer network setup for small businesses.
 
